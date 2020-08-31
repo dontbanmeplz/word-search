@@ -6,12 +6,20 @@ solutions = ['abandon ', 'ability ', 'able ', 'about ', 'above ', 'absent ', 'ab
 
 # Here goes your puzzle, separate each letter by a space.
 
-puzzle ='''B P G S B S O R
-U D Y B E E F O
-H B W T E R G B
-T Z C N H D E B
-I E E W Z O S I
-G C H A N B N E
+puzzle ='''JAAMDWTAILSGRT
+PCEABNEWWJNBEH
+RJSVEBHNJYIFTG
+ZHVRIMACARONTI
+GMRTRRYWNKCWAF
+QUTALEREKILEMZ
+CEMXGNGANBLBPT
+RENONIHNROASCS
+MOTTOBMEEDHISE
+BRIDGEAMASDTOG
+RPHAPTXEIDSECW
+LROOHEHFACUAKA
+OTPYRCFINDKOPY
+ERUTLUCAMREPIO
 '''
 
 # Just formats the puzzle into a more computer-readable text
